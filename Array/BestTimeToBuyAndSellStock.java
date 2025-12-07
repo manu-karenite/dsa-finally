@@ -1,4 +1,5 @@
 class BestTimeToBuyAndSellStock {
+    // Kadane's Algo
     public int maxProfit(int[] prices) {
         int maxProfit = 0;
         int currProfit = 0;
